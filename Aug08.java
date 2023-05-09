@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-
+//Program for area calcultion
 class Triangle
 	{
 	double a,b,c;
@@ -12,7 +12,7 @@ class Triangle
 			b=sc.nextDouble();
 			c=sc.nextDouble();
 		}
-		
+		//Methods
 		void areacal()
 		{
 			double s,ar;
